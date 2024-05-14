@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Newroz_Home_Task.props" />
+</Project>

@@ -1,0 +1,6 @@
+@Newroz_Home_Task_HostAddress = http://localhost:5201
+
+GET {{Newroz_Home_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
